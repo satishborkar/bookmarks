@@ -26,4 +26,6 @@
 
 - [2. The Future Of Dark Mode Interfaces](https://maxsnitser.com/blog/the-future-of-dark-mode-interfaces) 
 
-- [3. Introducing: How to Contribute to Open Source](https://kentcdodds.com/blog/introducing-how-to-contribute-to-open-source) 
+- [Introducing: How to Contribute to Open Source](https://kentcdodds.com/blog/introducing-how-to-contribute-to-open-source) 
+
+- [ Github : hooks ](https://githooks.com/)

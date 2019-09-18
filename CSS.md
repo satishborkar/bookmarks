@@ -5,4 +5,4 @@
 
 - [CSS Specificity - DEV Community 👩‍💻👨‍💻](https://dev.to/emmawedekind/css-specificity-1kca) 
 
-- [1. Styled-components: Basics](https://www.styled-components.com/docs/basics) 
+- [Styled-components: Basics](https://www.styled-components.com/docs/basics) 

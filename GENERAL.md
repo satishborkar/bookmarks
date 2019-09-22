@@ -28,4 +28,6 @@
 
 - [Introducing: How to Contribute to Open Source](https://kentcdodds.com/blog/introducing-how-to-contribute-to-open-source) 
 
-- [ Github : hooks ](https://githooks.com/)
+- [Github : hooks](https://githooks.com/)
+
+- [Outlook : Event Patterns](https://docs.microsoft.com/en-us/graph/outlook-schedule-recurring-events#using-patterns-and-ranges-to-create-recurring-events)

@@ -42,4 +42,4 @@
 
 - [Closures: The JS Scope Hack - DEV Community 👩‍💻👨‍💻](https://dev.to/steelvoltage/closures-the-js-scope-hack-3365) 
 
-- [Your First Polyfill](https://javascriptplayground.com/writing-javascript-polyfill/) 
+- [Your First Polyfill](https://javascriptplayground.com/writing-javascript-polyfill/) sa

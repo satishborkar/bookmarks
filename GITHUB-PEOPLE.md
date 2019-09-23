@@ -7,4 +7,4 @@
 - [Git Hooks | Learn how to use pre-commit hooks, post-commit hooks, post-receive hooks, and more. | Matthew Hudson](https://githooks.com/) 
 
 ### September 22, 2019
-- [Robin Dela CSS & JS experiments](https://github.com/robin-dela/)
+- [Robin Delaporte CSS & JS experiments](https://github.com/robin-dela/)

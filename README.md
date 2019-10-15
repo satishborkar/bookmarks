@@ -2,6 +2,7 @@
 
 * [General](GENERAL.md)
 * [JavaScript](JAVASCRIPT.md)
-* [REACT-JS](REACTJS.md)
+* [REACT JS](REACTJS.md)
 * [CSS](CSS.md)
-* [GitHup-Peoples](GITHUB-PEOPLE.md)
+* [GitHup Peoples](GITHUB-PEOPLE.md)
+* [YouTube Channels](YOUTUBE-CHANNELS.md)

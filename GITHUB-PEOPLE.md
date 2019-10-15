@@ -10,4 +10,4 @@
 - [Robin Delaporte CSS & JS experiments](https://github.com/robin-dela/)
 
 ### October 15, 2019
-- [React-trello-board  | simple-youtube-search](https://github.com/barrymichaeldoyle)
+- [Barry Michael Doyle - React-trello-board  | simple-youtube-search](https://github.com/barrymichaeldoyle)

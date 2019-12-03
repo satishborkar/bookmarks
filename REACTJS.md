@@ -12,3 +12,5 @@
 - [Accessing React State right after setting it - DEV Community 👩‍💻👨‍💻](https://dev.to/dance2die/accessing-react-state-right-after-setting-it-2kc8) 
 
 - [How to Enable React Strict Mode](https://kentcdodds.com/blog/react-strict-mode) 
+
+- [React Store state optimization Library](https://github.com/reduxjs/reselect)
